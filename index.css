@@ -1,0 +1,88 @@
+body {
+     background: #FFFFFF;
+     color: #000000;
+     font-family: Montserrat, Roboto;
+     font-size: 14px;
+     overflow-x:hidden;
+}
+
+
+#container {
+     background: #FFD700;
+     text-align: center;
+     width: 100%;
+     height: 100%;
+}
+
+
+#header {
+	overflow: hidden;
+	justify-content: center;
+     background: #FFFFFF;
+     width: 100%;
+     height: auto;
+}
+.colHeader{
+	padding: 1%;
+}
+.logo{
+	width: 7%;
+}
+ 
+
+#navigation {
+     background: #C1A991;
+     width: 100%;
+     height: auto;
+}
+.disir{
+	text-align: center;
+    height: 85px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 70px;
+    line-height: 85px;
+    letter-spacing: 0.15em;
+    padding-top: 2%;
+
+    color: #3C465F;
+}
+.catNavigation {
+	width: 60% !important;
+}
+
+ 
+#sidebar {
+     background: #40E0D0;
+     float: left;
+     width: 20%;
+     height: 280px;
+}
+
+
+#content {
+     background: #FFFFFF;
+     width: 100%;
+     height: auto;
+}
+.col{
+	padding: 20px;
+}
+.card{
+	max-width: 270px;
+	margin: auto;
+	border: 0px !important;
+}
+
+
+#clear {
+     clear: both;
+}
+ 
+#footer {
+    background: #00BFFF;
+	width: 100%;
+	height: 40px;
+}
