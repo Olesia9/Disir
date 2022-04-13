@@ -24,9 +24,36 @@ body {
 }
 .colHeader{
 	padding: 1%;
+     display: block;
+}
+.iconBurger{
+     margin-right: 550px;
 }
 .logo{
 	width: 7%;
+     margin-right: 450px;
+}
+.glassPanel{
+     margin-right: 20px;
+}
+.basketPanel{
+     margin-right: 10px;
+}
+.btnAdd{
+     display: flex;
+     flex-direction: row;
+     align-items: flex-start;
+     padding: 13px 54px;
+
+     position: relative;
+     width: 266.36px;
+     height: 46.32px;
+     margin-top: 10px;
+
+     background: rgba(1, 133, 85, 0.3);
+     border: 1px solid #000000;
+     box-sizing: border-box;
+     border-radius: 10px;
 }
  
 
